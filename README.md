@@ -1,3 +1,24 @@
+Proyecto final:
+
+A través de inputs / select:
+
+-Búsqueda de DATA (input de tipo text)
+-Filtrado por ATRIBUTO DE LA DATA (una propiedad del objeto) consumiendo la API de IMDB
+
+Requerimientos funcionales:
+-Ver y consultar DATA (mostrarlo en pantalla)
+-Mostrar detalles de la DATA seleccionada (atributos de la data)
+-Filtrar DATA por  ATRIBUTO DE LA DATA.
+-Debe desplegarse la aplicación en una dirección de internet.
+
+Requerimientos no funcionales:
+
+-Debe utilizar colores agradables al usuario (que no te quemen los ojos)
+-El proyecto debe tener una barra de navegación y un footer con tus datos de contacto como desarrollad@r
+-Incluir mensajes de error en caso de que fallen las consultas a la API
+-El diseño de la página debe ser responsivo
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
