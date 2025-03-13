@@ -36,7 +36,7 @@
 
 import { useState, useEffect } from 'react';
 import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom';
-import Navbar from './components/NavBar';
+import Navbar from './components/Navbar';
 import Footer from './components/Footer';
 import CharacterList from './components/CharacterList';
 import CharacterDetails from './components/CharacterDetails';
