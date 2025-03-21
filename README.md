@@ -18,6 +18,8 @@ Requerimientos no funcionales:
 -Incluir mensajes de error en caso de que fallen las consultas a la API
 -El diseño de la página debe ser responsivo
 
+URL del proyecto: https://proyecto-final-kata-front-end.vercel.app/
+
 
 # React + Vite
 
